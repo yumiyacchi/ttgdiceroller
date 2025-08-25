@@ -61,6 +61,21 @@ class DiceSet(val maxDice: Int = 6) {
     }
 
     /**
+     * Rolls a specific die in the set by its ID.
+     * @param id The ID of the die to roll.
+     * @return True if a die with the given ID was found and rolled, false otherwise.
+     */
+    fun rollDie(id: Int): Boolean {
+        val dieToRoll = _diceList.find { it.id == id }
+        return if (dieToRoll != null) {
+            dieToRoll.roll()
+            true
+        } else {
+            false
+        }
+    }
+
+    /**
      * Rolls all dice currently in the set.
      */
     fun rollAll() {
