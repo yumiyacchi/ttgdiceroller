@@ -5,20 +5,20 @@ during a session of roleplaying in discord, my cat jumped on the lid of my lapto
 
 ## THAT'LL BE NO MORE!!! 
 
-I created this simple app with the sole goal of getting rid of any dice in question. 
+- I created this simple app with the sole goal of getting rid of any dice in question. 
 This app can create up to 6 dice, with up to a 100 faces each! 
 
 ## WOW, THAT GUY AT THE TABLETOP SHOP WON'T RIP ME OFF ON EXPENSIVE DICE NO MORE!!
 
-Yeah, TTG store guys hate this. No more losing dice, no more choking, no more silly accidents. 
+- Yeah, TTG store guys hate this. No more losing dice, no more choking, no more silly accidents. 
 
 # In all seriousness now 
 
-I created this app to have a head start into masteting Kotlin and Jetpack Compose. 
+- I created this app to have a head start into masteting Kotlin and Jetpack Compose. 
 That's all it used. Feel free to ask questions. I won't likely answer them but go on, fill my
 email with shit:  gabrielnr93@gmail.com 
 
-## Any future features? 
+# Any future features? 
 
 I was wondering. what could be good? 
 - Personalized dice for people playing other games that require specific dice? Like
@@ -30,4 +30,4 @@ I was wondering. what could be good?
 - Will you sell me this repo? Hmmm... no... 
 - Can I fork this? Yeah, go on... 
 
-©2025, Gabriel Navarro. 
+- ©2025, Gabriel Navarro. 
